@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.415" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-10-13T12:22:56" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Asynchronous Fetching " timestamp="2026-10-13T12:22:56" tests="2" file="/home/joy/Desktop/lab-async-await/test/indexTest.js" time="0.413" failures="0">
+    <testcase name="Asynchronous Fetching  should fetch to external api and add information to page" time="0.206" classname="should fetch to external api and add information to page">
+    </testcase>
+    <testcase name="Asynchronous Fetching  should create an h1 and p element to add" time="0.203" classname="should create an h1 and p element to add">
+    </testcase>
+  </testsuite>
+</testsuites>
